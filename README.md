@@ -707,6 +707,7 @@ Your Pull requests are welcome! Let's make this the awesomest resource for Ruby 
   * [Auto HTML](https://github.com/dejan/auto_html) — Transforming URLs to appropriate resource (image, link, YouTube, Vimeo video,...).
   * [OctoLinker](https://github.com/OctoLinker/browser-extension) - Navigate through projects on GitHub.com efficiently with the OctoLinker browser extension.
   * [BetterDocs](https://github/khusnetdinov/betterdocs) - Documentation with collection practices in ruby. Good for new ruby developers and beginners.
+  * [EvenBetterSpecs](https://evenbetterspecs.github.io/) - Guidelines for maintainable tests (RSpec focused)
 
 
 ## Editor Plugins
